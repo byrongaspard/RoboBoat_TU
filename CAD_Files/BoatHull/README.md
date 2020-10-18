@@ -2,7 +2,7 @@
 
 There seem to be two versions of the boat. 
 
-The one below, "NoHeliHole", is the one that was actually made. 
+The one below, "NoHeliHole" or "ShoeBox" as it's called, is the one that was actually made. 
 
 ![ImageOfHull_NoHeliHole](Asbly_ShoeBox.JPG)
 
